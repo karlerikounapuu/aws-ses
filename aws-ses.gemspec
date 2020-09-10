@@ -54,7 +54,7 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/drewblas/aws-ses".freeze
   s.licenses = ["MIT".freeze]
-  s.rubygems_version = "2.5.2.3".freeze
+  s.rubygems_version = "3.1.4".freeze
   s.summary = "Client library for Amazon's Simple Email Service's REST API".freeze
 
   if s.respond_to? :specification_version then
